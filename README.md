@@ -1,14 +1,14 @@
-# 🤖 AI-Powered Sales Assistant
+# AI-Powered Sales Assistant
 
 This project is a **Streamlit-based interactive app** that uses **Google Gemini AI models** to assist sales reps with:
-- 🔍 Prospecting leads
-- 📈 Analyzing prospects (SWOT, SEO, opportunities)
-- ✉️ Crafting personalized communication
-- 🧠 Saving and recalling previous interactions (SQLite memory)
+- Prospecting leads
+- Analyzing prospects (SWOT, SEO, opportunities)
+- Crafting personalized communication
+- Saving and recalling previous interactions (SQLite memory)
 
 ---
 
-## 🚀 Features
+## Features
 - Upload your own dataset (`.xlsx`)
 - Choose between Gemini models (`gemini-1.5-flash`, `gemini-1.5-pro`, etc.)
 - Interact with three specialized AI agents:
@@ -20,7 +20,7 @@ This project is a **Streamlit-based interactive app** that uses **Google Gemini 
 
 ---
 
-## 📦 Installation
+## Installation
 
 Clone the repo and install dependencies:
 
@@ -28,3 +28,4 @@ Clone the repo and install dependencies:
 git clone <your-repo-url>
 cd Agents-Task
 pip install -r requirements.txt
+
